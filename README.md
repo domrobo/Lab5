@@ -123,4 +123,8 @@ Rose - 120.0, stem length: 50.0, fresh: true
 
 
 
+https://github.com/user-attachments/assets/d512b00b-a7f3-42cb-8aa8-588b151d5bcb
+
+
+
 
